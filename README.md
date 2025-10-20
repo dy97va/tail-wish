@@ -1,0 +1,17 @@
+## TODO:
+- [X] Fix translation reset after reload
+- [X] Make the page responsive
+    - [X] Footer
+    - [X] Products
+    - [X] Navbar
+    - [X] Hero
+    - [X] Background
+- [X] Add explore our products button to Hero Section
+- [X] Add scroll to section on click
+    - [X] Nav items
+    - [X] Explore button
+    - [X] Contact us to order
+- [X] Re-design the product card
+- [X] Change the back background color
+- [X] Refine the paw print animation
+- [ ] Add actual products

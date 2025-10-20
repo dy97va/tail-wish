@@ -1,0 +1,31 @@
+{
+    "nav":{
+        "about": "About us",
+        "products": "Products",
+        "contact": "Contact us"
+    },
+    "hero":{
+        "title": "Eco friendly products for your pets and the planet",
+        "cta": "Explore our products"
+    },
+    "Footer":{
+        "contact": "Contact information"
+    },
+    "Product-card": {
+        "order": "Contact us to order"
+    },
+    "products":{
+        "bag": {
+            "title": "eco-friendly poop bags",
+            "description": "bio degradable pack of bags for poop-scooping"
+        },
+        "cat toy": {
+            "title": "amazing cat toy",
+            "description": "vibrant and cool, but also made with recycled materials"
+        },
+        "bowl": {
+            "title": "Awesome Bowl",
+            "description": "Amazing bowl made with recycled materials"
+        }
+    }
+}
