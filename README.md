@@ -14,4 +14,5 @@
 - [X] Re-design the product card
 - [X] Change the back background color
 - [X] Refine the paw print animation
+- [ ] Build and host demo using gitlab pages
 - [ ] Add actual products
